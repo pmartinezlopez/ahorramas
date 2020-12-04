@@ -1,0 +1,19 @@
+input {
+  width: 100%;
+  border: 1px solid #D6D6D6;
+  border-radius: 4px;
+  padding: 12px;
+  margin-top: 6px;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type="checkbox"] {
+  float: left;
+  width: auto;
+  margin-top: 0.3em;
+  margin-right: 10px;
+}
+.error {
+  border-color: rgba(206, 65, 65, 0.6);
+}

@@ -1,0 +1,8 @@
+es-ES:
+  title: "404"
+  notFound: "Página no encontrada"
+  description: "La página que estás buscando no se puede encontrar."
+de:
+  title: "404"
+  notFound: "Seite nicht gefunden"
+  description: "Die angeforderte Seite konnte leider nicht gefunden werden."

@@ -1,0 +1,62 @@
+<div>
+  <section class="banner-contactar">
+    <div class="section-container">
+      <h1>{{ $t('contactaAhorramas') }}</h1>
+    </div>
+  </section>
+  <div class="contact-container">
+    <h2>¿En qué podemos ayudarte?</h2>
+    <div class="form-container">
+      <form action="#">
+        <label for="tipo">{{ $t('tipoMensaje') }}</label>
+        <select id="tipo" name="tipo">
+          <option value>Seleccionar</option>
+          <option value="informacion">INFORMACIÓN</option>
+          <option value="sugerencia">SUGERENCIA</option>
+          <option value="reclamacion">RECLAMACIÓN</option>
+          <option value="otros">OTROS</option>
+        </select>
+
+        <label for="tienda">Tienda</label>
+        <input type="text" id="tienda" name="tienda" />
+        <p class="help-block">
+          Si su mensaje está relacionado con una tienda concreta, indíquenos la
+          dirección de la misma
+        </p>
+
+        <label for="comentarios">Comentarios</label>
+        <textarea id="comentarios" name="comentarios"></textarea>
+
+        <p>
+          <small
+            >Si desea recibir contestación es necesario que nos indique algunos
+            datos personales:</small
+          >
+        </p>
+
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre" />
+
+        <label for="nombre">Domicilio</label>
+        <input type="text" id="domicilio" name="domicilio" />
+
+        <label for="nombre">Población</label>
+        <input type="text" id="poblacion" name="poblacion" />
+
+        <label for="nombre">C. Postal</label>
+        <input type="text" id="cpostal" name="cpostal" />
+
+        <label for="nombre">Provincia</label>
+        <input type="text" id="provincia" name="provincia" />
+
+        <label for="nombre">Teléfono</label>
+        <input type="text" id="telefono" name="telefono" />
+
+        <label for="nombre">Email</label>
+        <input type="text" id="email" name="email" />
+
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+  </div>
+</div>

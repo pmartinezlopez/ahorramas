@@ -1,0 +1,13 @@
+  es-ES:
+    itemsTotal: "{n} producto | {n} productos totales"
+    editMyCart: "Modificar mi carro de la compra"
+    orderSummary: "Resumen del pedido"
+    quantity: "Cantidad"
+    total: "Total"
+    price: "Precio"
+  de:
+    itemsTotal: "{n} Artikel im Warenkorb"
+    editMyCart: "Warenkorb bearbeiten"
+    orderSummary: "Bestellübersicht"
+    quantity: "Menge"
+    total: "Gesamtpreis"

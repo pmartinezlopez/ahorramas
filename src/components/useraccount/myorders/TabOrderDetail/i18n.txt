@@ -1,0 +1,18 @@
+es-ES:
+  title: "Detalles de tu pedido"
+  orderNumber: "Número de pedido"
+  date: "Fecha"
+  print: "Imprimir Recibo"
+  description: "Descripción"
+  quantity: "Cantidad"
+  total: "Total"
+  notFound: "Pedido no encontrado"
+de:
+  title: "Ihre Bestelldetails"
+  orderNumber: "Bestellnummer"
+  date: "Datum"
+  print: "Beleg drucken"
+  description: "Beschreibung"
+  quantity: "Menge"
+  total: "Gesamtpreis"
+  notFound: "Bestellung nicht gefunden"

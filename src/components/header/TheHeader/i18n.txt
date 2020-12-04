@@ -1,0 +1,10 @@
+es-ES:
+  search: "Buscar en Ahorramas"
+  stores: "Tiendas"
+  help: "Ayuda"
+  previewMode: "Preview Mode"
+de:
+  search: "Suche"
+  stores: "Filiale"
+  help: "Hilfe"
+  previewMode: "????"

@@ -1,0 +1,4 @@
+es-ES:
+  available: "Disponible"
+de:
+  available: "Verfügbar"

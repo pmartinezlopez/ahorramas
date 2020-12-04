@@ -1,0 +1,8 @@
+es-ES:
+  location: "Location"
+  language: "Language"
+  country: "Country"
+de:
+  location: "Ort"
+  language: "Sprache"
+  country: "Land"

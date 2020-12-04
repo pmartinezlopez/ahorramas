@@ -1,0 +1,6 @@
+es-ES:
+  home: "Home"
+  all: 'Todo'
+de:
+  home: "Home"
+  all: 'Alle'

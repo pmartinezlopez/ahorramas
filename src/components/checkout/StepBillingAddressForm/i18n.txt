@@ -1,0 +1,6 @@
+es-ES:
+  sameAddress: "Usar dirección de envío"
+  billingInformation: "Datos de facturación"
+de:
+  sameAddress: "Entspricht die Lieferadresse"
+  billingInformation: "Rechnung Information"

@@ -1,0 +1,9 @@
+es-ES:
+  description: "Descripción"
+  quantity: "Cantidad"
+  total: "Total"
+  price: "Precio"
+de:
+  description: "Beschreibung"
+  quantity: "Menge"
+  total: "Gesamtpreis"

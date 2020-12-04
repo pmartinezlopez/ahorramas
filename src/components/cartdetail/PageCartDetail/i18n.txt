@@ -1,0 +1,14 @@
+es-ES:
+  yourBag: "Tu carro"
+  itemsTotal: "{n} productos | {n} productos totales"
+  empty: "¡Tu cesta está vacía!"
+  continueShopping: "Seguir comprando"
+  shopNow: "Comprar"
+  startCheckout: "Ir a pago y envío"
+de:
+  yourBag: "Ihr Einkaufswagen"
+  itemsTotal: "{n} Artikel im Warenkorb"
+  empty: "Ihr Einkaufswagen ist leer!"
+  continueShopping: "Weiter einkaufen"
+  shopNow: "Jetzt einkaufen"
+  startCheckout: "Zur Kasse"

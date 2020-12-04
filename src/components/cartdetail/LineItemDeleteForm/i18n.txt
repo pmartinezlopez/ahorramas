@@ -1,0 +1,4 @@
+es-ES:
+  delete: "Eliminar"
+de:
+  delete: "Löschen"

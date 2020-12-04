@@ -1,0 +1,4 @@
+es-ES:
+  shippingMethod: Formas de envío
+de:
+  shippingMethod: Versandart

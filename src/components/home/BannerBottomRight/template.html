@@ -1,0 +1,49 @@
+  <div class="col-sm-6 noppading banner-right">
+    <div class="row">
+      <div class="col-sm-12 nopadding">
+        <!-- <div class="banner-xs-one"> -->
+          <BannerPicture :file="'bottom-right-top-left.jpg'"/>
+          <div class="banner-text">
+            <h4 class="banner-title">{{ $t('title2') }}</h4>
+            <p class="banner-paragraph">{{ $t('subtitle2') }}</p>
+            <router-link :to="{ name: 'products', params: { categorySlug: 'pasta' } }"
+                         class="btn banner-btn">
+              {{ $t('linkLabel0') }}
+            </router-link>
+          </div>
+        <!-- </div> -->
+      </div>
+      <!-- <div class="col-sm-6 nopadding">
+        <div class="banner-xs-two">
+          <div class="aspect-ratio aspect-ratio--4to3">
+            <BannerPicture :file="'fruta.jpg'"/>
+          </div>
+          <div class="banner-text">
+            <h4 class="banner-title">{{ $t('title2') }}</h4>
+            <p class="banner-paragraph">{{ $t('subtitle2') }}</p>
+            <router-link :to="{ name: 'products', params: { categorySlug: 'accessories-men-sunglasses' } }"
+                         class="btn banner-btn">
+              {{ $t('linkLabel') }}
+            </router-link>
+          </div>
+        </div>
+      </div> -->
+    </div>
+    <!-- <div class="row">
+      <div class="col-sm-12 nopadding">
+        <div class="banner-sm">
+          <div class="aspect-ratio aspect-ratio--8to3">
+            <BannerPicture :file="'helados.jpg'"/>
+          </div>
+          <div class="banner-text">
+            <h4 class="banner-title">{{ $t('title3')}}</h4>
+            <p class="banner-paragraph">{{ $t('subtitle3') }}</p>
+            <router-link :to="{ name: 'products', params: { categorySlug: 'women-clothing-sunglasses' } }"
+                         class="btn banner-btn">
+              {{ $t('linkLabel2') }}
+            </router-link>
+          </div>
+        </div>
+      </div>
+    </div> -->
+  </div>

@@ -1,0 +1,4 @@
+es-ES:
+  inStore: "In Store"
+de:
+  inStore: "????"

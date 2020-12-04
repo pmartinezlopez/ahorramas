@@ -1,0 +1,14 @@
+  de:
+    miniCart: "Warenkorb"
+    viewBag: "Warenkorb"
+    quantity: "Menge"
+    totalPrice: "Gesamtpreis"
+    delete: "Löschen"
+    checkout: "Checkout"
+  es-ES:
+    miniCart: "Mi Carro"
+    viewBag: "Ver cesta"
+    quantity: "cantidad"
+    totalPrice: "Total"
+    delete: "Eliminar"
+    checkout: "Finalizar"

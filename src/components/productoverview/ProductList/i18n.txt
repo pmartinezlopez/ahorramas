@@ -1,0 +1,10 @@
+es-ES:
+  go-to-top: "subir"
+  notFound: "No hay resultados"
+  categoryNotFound: "Categoría no encontrada"
+  daleSabor: "DALE SABOR A TUS MOMENTOS"
+  productosIncreibles: "PRODUCTOS INCREÍBLES PARA INSTANTES ÚNICOS"
+de:
+  go-to-top: Seitenanfang"
+  notFound: "Keine Ergebnisse Gefunden"
+  categoryNotFound: "Kategorie nicht gefunden"

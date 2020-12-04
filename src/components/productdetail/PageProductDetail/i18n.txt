@@ -1,0 +1,8 @@
+es-ES:
+  suggestions:
+    title: "You may also like"
+  daleSabor: "DALE SABOR A TUS MOMENTOS"
+  productosIncreibles: "PRODUCTOS INCREÍBLES PARA INSTANTES ÚNICOS"
+de:
+  suggestions:
+    title: "Das könnte Ihnen auch gefallen"

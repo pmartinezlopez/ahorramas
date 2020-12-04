@@ -1,0 +1,31 @@
+.socialfootercontainer {
+    text-align: right;
+}
+
+.sub-footer {
+    background-color: #262626;
+    padding: 20px 0px;
+    color: #eaeaea;
+    border-top: none;
+    font-size: 1.2rem !important;
+    line-height: 180%;
+
+    & a {
+        color: $my-sin !important;
+
+        &:hover {
+            text-decoration: underline !important;
+        }
+    }
+}
+
+.socialfooter {
+    display: flex;
+    justify-content: end;
+
+    & div {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+        
+}

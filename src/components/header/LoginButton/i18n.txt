@@ -1,0 +1,6 @@
+es-ES:
+  signOut: "Salir"
+  signIn: "Iniciar sesión"
+de:
+  signOut: "Log Out"
+  signIn: "Log In"

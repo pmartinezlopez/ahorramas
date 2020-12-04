@@ -1,0 +1,28 @@
+.carousel img
+{
+	min-width: 100%;
+}
+
+.carousel-indicators {
+	position: absolute;
+	bottom: 2%;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	width: 10%;
+}
+
+.carousel-indicators li,
+.carousel-indicators li.active {
+	float: left;
+	width: 30%;
+	height: 5px;
+	margin: 1px;
+	border-radius: 0;
+	border: 0;
+	background: #fff;
+}
+
+.carousel-indicators li.active {
+	background: #83B817;
+}

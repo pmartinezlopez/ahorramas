@@ -1,0 +1,18 @@
+es-ES:
+  personalDetails: "Detalles Personales"
+  addressBook: "Address Book"
+  paymentDetails: "Payment Details"
+  myOrders: "Mis Pedidos"
+  returnsExchange: "Returns / Exchange"
+  wishlist: "Wishlist"
+  signOut: "Cerrar Sesión"
+  changePassword: "Modificar Contraseña"
+de:
+  personalDetails: "Meine Benutzerdaten"
+  addressBook: "Adressbuch"
+  paymentDetails: "Meine Zahlungdaten"
+  myOrders: "Meine Bestellungen"
+  returnsExchange: "Meine Retouren"
+  wishlist: "Wunschliste"
+  signOut: "Abmelden"
+  changePassword: "Passwort ändern"

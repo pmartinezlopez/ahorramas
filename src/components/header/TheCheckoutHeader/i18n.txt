@@ -1,0 +1,4 @@
+es-ES:
+  needHelp: "¿EN QUÉ PODEMOS AYUDARTE?"
+de:
+  needHelp: "Brauchen Sie Hilfe? Kundenservice"

@@ -1,0 +1,4 @@
+es-ES:
+  title: "Mi Cuenta"
+de:
+  title: "Mein Konto"

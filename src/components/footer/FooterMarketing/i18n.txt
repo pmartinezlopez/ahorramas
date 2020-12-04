@@ -1,0 +1,6 @@
+es-ES:
+  paySecure: "Pay securely with these payment methods"
+  followUs: "Follow us"
+de:
+  paySecure: "Sicher zahlen"
+  followUs: "Follow us"

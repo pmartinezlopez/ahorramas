@@ -1,0 +1,10 @@
+de:
+  productDetails: "Produktdetails"
+  deliveryReturns: "Versand & Retoure"
+  freeReturns: "Kostenlose Retoure."
+  moreDeliveryInfo: "Versandinformationen"
+es-ES:
+  productDetails: "Detalles del producto"
+  deliveryReturns: "Envío"
+  freeReturns: "Envío gratuito para pedidos a partir de 50€"
+  moreDeliveryInfo: "Más información de envío"

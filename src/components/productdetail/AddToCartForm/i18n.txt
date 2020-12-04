@@ -1,0 +1,4 @@
+de:
+  addToCart: "In den Warenkorb"
+es-ES:
+  addToCart: "Añadir al carro"

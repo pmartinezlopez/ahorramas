@@ -1,0 +1,5 @@
+es-ES:
+  tipoMensaje: "Tipo de mensaje"
+  contactaAhorramas: "CONTACTA CON AHORRAMAS"
+de:
+  tipoMensaje: "Kundenanmeldung"

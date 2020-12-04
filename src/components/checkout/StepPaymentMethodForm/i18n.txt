@@ -1,0 +1,6 @@
+es-ES:
+  paymentMethod: Método de Pago
+  creditCard: Tarjeta de Crédito
+de:
+  paymentMethod: Zahlungsart
+  creditCard: Kreditkarte

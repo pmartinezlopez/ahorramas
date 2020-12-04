@@ -1,0 +1,16 @@
+es-ES:
+  title1: "VERANO AHORRAMAS"
+  title2: "Variedad en Pasta"
+  title3: "¿Un helado?"
+  subtitle2: "La mejor calidad de temporada"
+  subtitle3: "Gran surtido de helados y dulces fríos"
+  linkLabel0: "Pasta"
+  linkLabel: "Frutería"
+  linkLabel2: "Todos los dulces"
+de:
+  title1: "SOMMER MODE"
+  title2: "Sonnenbrillen-Trends"
+  title3: "Hauptsache überdimensional"
+  subtitle2: "Unsere Fashion Must-Haves"
+  subtitle3: "Trendy Sommer 2016 - Auffällige Sonnenbrillen"
+  linkLabel: "Shop collection"

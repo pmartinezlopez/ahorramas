@@ -1,0 +1,4 @@
+es-ES:
+  close: "Close"
+de:
+  close: "Schließen"

@@ -1,0 +1,13 @@
+  <div class="col-sm-6 nopadding banner-right">
+    <div class="aspect-ratio aspect-ratio--17to9">
+      <BannerPicture :file="'quesos.jpg'"/>
+    </div>
+    <div class="banner-text">
+      <h4 class="banner-title">{{ $t('title') }}</h4>
+      <p class="banner-paragraph">{{ $t('subtitle') }}</p>
+      <router-link :to="{ name: 'products', params: { categorySlug: 'quesos' } }"
+                   class="btn banner-btn">
+        {{ $t('linkLabel') }}
+      </router-link>
+    </div>
+  </div>

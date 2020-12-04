@@ -1,0 +1,12 @@
+es-ES:
+  secureCheckout: "Pago Seguro"
+  securePayment: "Pago Seguro"
+  shipping: "Envío"
+  payment: "Pago"
+  confirmation: "Confirmación"
+de:
+  secureCheckout: "Sicherer Bestellprozess"
+  securePayment: "Sichere Bezahlung"
+  shipping: "Versand"
+  payment: "Zahlung"
+  confirmation: "Bestätigung"

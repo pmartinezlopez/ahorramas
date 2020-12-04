@@ -1,0 +1,4 @@
+es-ES:
+  required: "Campo obligatório"
+de:
+  required: "Pflichtfeld"

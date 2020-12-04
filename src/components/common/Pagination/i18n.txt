@@ -1,0 +1,6 @@
+  es-ES:
+    page: "Página"
+    of: "de"
+  de:
+    page: "Seite"
+    of: "von"

@@ -1,0 +1,12 @@
+es-ES:
+  shippingAddress: "Dirección de envío"
+  billingAddress: "Dirección de facturación"
+  shippingMethod: "Forma de envío"
+  paymentDetails: "Detalles del pago"
+  edit: "Editar"
+de:
+  paymentDetails: "Zahlungsdetails"
+  shippingMethod: "Versandart"
+  shippingAddress: "Lieferanschrift"
+  billingAddress: "Rechnungsadresse"
+  edit: "Bearbeiten"

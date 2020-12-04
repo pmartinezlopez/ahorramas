@@ -1,0 +1,12 @@
+es-ES:
+  subtotal: "Subtotal"
+  shipping: "Envío"
+  salesTax: "IVA"
+  total: "Total"
+  discount: "Descuento"
+de:
+  subtotal: "Zwischensumme"
+  shipping: "Versand"
+  salesTax: "MwSt."
+  total: "Gesamtpreis"
+  discount: "Rabatt"

@@ -1,0 +1,6 @@
+es-ES:
+  badRequestError: "Parece que hay un problema con la solicitud"
+  networkError: "Se produjo un error en la conexión. Vuelve a intentarlo más tarde."
+de:
+  badRequestError: "Es gibt ein Problem mit der Anfrage"
+  networkError: "Bei der Verbindung ist ein Fehler aufgetreten, versuchen Sie es bitte später nochmals"

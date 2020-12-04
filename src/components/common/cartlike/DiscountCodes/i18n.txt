@@ -1,0 +1,4 @@
+es-ES:
+  appliedDiscounts: "Descuentos Aplicados"
+de:
+  appliedDiscounts: "Angewandte Rabatte"

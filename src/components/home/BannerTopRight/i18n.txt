@@ -1,0 +1,8 @@
+es-ES:
+  title: "Ofertas en quesos"
+  subtitle: "Descubre nuestras variedades"
+  linkLabel: "Quesos y embutidos"
+de:
+  title: "Sommer Essentials"
+  subtitle: "Die wichtigsten Stücke des Sommer Trends"
+  linkLabel: "Jetzt bestellen"

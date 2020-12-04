@@ -1,0 +1,6 @@
+de:
+  showMore: "Mehr"
+  showLess: "Weniger"
+es-ES:
+  showMore: "Show more"
+  showLess: "Show less"

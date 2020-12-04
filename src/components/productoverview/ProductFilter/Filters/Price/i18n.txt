@@ -1,0 +1,7 @@
+es-ES:
+  max: "max"
+  min: "min"
+  price: "Precio"
+de:
+  max: "?????"
+  min: "?????"

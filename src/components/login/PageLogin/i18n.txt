@@ -1,0 +1,4 @@
+es-ES:
+  pageTitle: "Inicio de sesión"
+de:
+  pageTitle: "Kundenanmeldung"

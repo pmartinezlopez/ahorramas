@@ -1,0 +1,4 @@
+es-ES:
+  shippingInformation: "Datos de envío"
+de:
+  shippingInformation: "Versand Information"

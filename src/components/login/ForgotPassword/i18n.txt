@@ -1,0 +1,12 @@
+es-ES:
+  title: "Mi cuenta"
+  forgotPassword: "Olvidé mi contraseña"
+  email: "Email"
+  submit: "Enviar"
+  invalidSubject: "No se ha encontrado un usuario con esta dirección de email"
+de:
+  title: "Mein Konto"
+  forgotPassword: "Passwort vergessen"
+  email: "Email"
+  submit: "Weiter"
+  invalidSubject: "Kunde mit dieser E-Mail wurde nicht gefunden"

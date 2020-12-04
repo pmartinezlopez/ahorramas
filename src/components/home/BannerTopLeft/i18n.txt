@@ -1,0 +1,8 @@
+es-ES:
+  title: "Pescado fresco en Ahorramas"
+  subtitle: "Bonito de temporada y más"
+  linkLabel: "Todo pescadería"
+de:
+  title: "Sommer Fashion"
+  subtitle: "Beste Outfits für die Saison"
+  linkLabel: "Jetzt bestellen"

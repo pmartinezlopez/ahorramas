@@ -1,0 +1,12 @@
+es-ES:
+  sale: "Venta"
+  new: "Nueva"
+  quickView: "Vista Rápida"
+  moreColors: "Más colores"
+  add: "Añadir artículo a la lista de deseos"
+de:
+  sale: "Sale"
+  new: "Neu"
+  quickView: "Schnellansicht"
+  moreColors: "Mehr Farben"
+  add: "Auf den Wunschzettel"

@@ -1,0 +1,6 @@
+es-ES:
+  continue: "Continuar"
+  back: "Volver"
+de:
+  continue: "Weiter"
+  back: "Zurück"

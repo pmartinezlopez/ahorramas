@@ -1,0 +1,10 @@
+es-ES:
+  unknownValidation: "Campo incorrecto"
+  required: "Campo obligatório"
+  email: "Se requiere un email válido"
+  minLength: "Debe tener al menos {min} caracteres"
+de:
+  unknownValidation: "Ungültiger Feldwert"
+  required: "Pflichtfeld"
+  email: "Eine gültige E-Mail ist erforderlich"
+  minLength: "Es sollte mindestens {min} Zeichen enthalten"

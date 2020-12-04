@@ -1,0 +1,5 @@
+es-ES:
+  title: "Nuestras Tiendas"
+  enterPostalCode: "Introduce tu código postal:"
+de:
+  title: "Filialsuche"

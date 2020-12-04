@@ -1,0 +1,6 @@
+es-ES:
+  pleaseWait: "Please wait..."
+  open: "Filter"
+de:
+  pleaseWait: "Bitte warten..."
+  open: "Filter öffnen"
